@@ -9,11 +9,10 @@ _A continuacion encontraras los aspectos que debes conocer de la API, asi como s
 
 ### Pre-requisitos 📋
 
-_Para contribuir al desarrollo de la API, es imperativo que tengas las siguientes herramientas instaladas en tu equipo: _
+_Para contribuir al desarrollo de la API, es imperativo que tengas las siguientes herramientas instaladas en tu equipo:_
 
-* `<NodeJS>` : <https://nodejs.org/en/> 
-<br>
-* `<GIT>` : <https://git-scm.com>
+`<NodeJS>` : <https://nodejs.org/en/> 
+ `<GIT>` : <https://git-scm.com>
 
 ### Clonando el repositorio 🤖🔁
 
