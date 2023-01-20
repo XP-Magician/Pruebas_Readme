@@ -65,9 +65,9 @@ _Una descripcion general de los directorios en el proyecto y su funcionamiento_
 | /server/src/utils   | Utilidades de desarrollo | Establece parametros generales para la plataforma, asi como scritpts para el manejo de errores y comunicacion con el servidor  |
 
 ### Comunicacion entre artefactos 📞
-<img src="call_01.drawio.png"></img>
+<img src="call_01.jpg"></img>
 
-###Paths REST 🗺️
+### Paths REST 🗺️
 | HTTP Request| Path  | Accion |
 | :------------ |:---------------:| -----:|
 | GET     | "/counter" | Retorno datos conteo generales |
