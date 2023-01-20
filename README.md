@@ -11,8 +11,8 @@ _A continuacion encontraras los aspectos que debes conocer de la API, asi como s
 
 _Para contribuir al desarrollo de la API, es imperativo que tengas las siguientes herramientas instaladas en tu equipo:_
 
-`<NodeJS>` : <https://nodejs.org/en/> 
- `<GIT>` : <https://git-scm.com>
+* `<NodeJS>` : <https://nodejs.org/en/> <br>
+*  `<GIT>` : <https://git-scm.com>
 
 ### Clonando el repositorio 🤖🔁
 
@@ -36,10 +36,10 @@ git clone 'url_del_repositorio'
 ## Tecnologias utilizadas 🛠️
 
 _Para el desarrollo de esta API se utilizó:_
- `<Nodejs>` : <https://nodejs.org/en/> 
- `<Reactjs>` : <https://reactjs.org>
- `<Expressjs>` : <https://expressjs.com/es/>
- `<MongoDB>` : <https://www.mongodb.com>
+* `<Nodejs>` : <https://nodejs.org/en/> <br>
+* `<Reactjs>` : <https://reactjs.org> <br>
+* `<Expressjs>` : <https://expressjs.com/es/> <br>
+* `<MongoDB>` : <https://www.mongodb.com>
 
 ### Estructura de la API 🪵
 
@@ -65,7 +65,7 @@ _Una descripcion general de los directorios en el proyecto y su funcionamiento_
 | /server/src/utils   | Utilidades de desarrollo | Establece parametros generales para la plataforma, asi como scritpts para el manejo de errores y comunicacion con el servidor  |
 
 ### Comunicacion entre artefactos 📞
-
+<img src="call_01.drawio.png"></img>
 
 ###Paths REST 🗺️
 | HTTP Request| Path  | Accion |
