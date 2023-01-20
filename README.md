@@ -38,11 +38,8 @@ git clone 'url_del_repositorio'
 
 _Para el desarrollo de esta API se utilizó:_
 * `<Nodejs>` : <https://nodejs.org/en/> 
-<br>
 * `<Reactjs>` : <https://reactjs.org>
-<br>
 * `<Expressjs>` : <https://expressjs.com/es/>
-<br>
 * `<MongoDB>` : <https://www.mongodb.com>
 
 ### Estructura de la API 🪵
